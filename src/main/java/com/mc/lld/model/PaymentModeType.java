@@ -1,7 +1,7 @@
 package com.mc.lld.model;
 
 public enum PaymentModeType {
-    COD,
     PREPAID,
+    COD,
     BOTH
 }
